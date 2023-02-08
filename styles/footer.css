@@ -1,0 +1,11 @@
+/* 1stpage */
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border: 1px green solid;
+  background-color: indigo;
+  color: wheat;
+  padding: 34px;
+  margin-top: 5%;
+}
